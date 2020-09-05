@@ -1,2 +1,2 @@
 # Notepad
-A complete end to end software for windows
+A notepad software built end to end software built for windows on python
